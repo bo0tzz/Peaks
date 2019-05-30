@@ -1,4 +1,10 @@
-# Peaks system design report
+---
+title: Peaks system design report
+author: Boet de willigen
+header-includes: |
+    \usepackage{parskip}
+---
+
 This is my report for Peaks' system design assignment. The assignment describes requirements for a simple messaging 
 service, in essence quite similar to a basic version of Twitter. As such, I will be using Twitter's terms such as the
 word 'timeline' throughout this document for ease of communication. I will define two timelines: a 'user timeline', 
